@@ -1,0 +1,63 @@
+{
+    "categorias": [
+        {
+            "id":1,
+            "titulo": "Terror",
+            "filmes": [
+              {
+                "id": 1, "titulo": "Resident Evil 5", "imagem":"https://images.g2a.com/newlayout/600x351/1x1x0/2bf7f0a16b45/5a5c6a5cae653a406518cbf2"
+              },
+              {
+                "id": 2, "titulo": "Resident Evil 4", "imagem":"https://www.planocritico.com/wp-content/uploads/2017/01/resident-evil-4-plano-critico-600x400.jpg"
+              },
+              {
+                "id": 3, "titulo": "Resident Evil 2", "imagem":"http://www.comboinfinito.com.br/principal/wp-content/uploads/2017/05/mila-jovovich-sobre-o-reboot-de-resident-evil.jpg"
+              },
+              {
+                "id": 4, "titulo": "Resident Evil 7", "imagem":"http://colecoesemais.com.br/blog/wp-content/uploads/2017/01/resident-6-e1485447518323.jpg"
+              },
+              {
+                "id": 5, "titulo": "Vingadores: Guerra infinita", "imagem":"https://kanto.legiaodosherois.com.br/w750-h393-gnw-cfill-q80/wp-content/uploads/2018/05/legiao_jf8opLQBCyga3wsW90cUkE_XHrRKeAm6lid4ItNn2b.png.jpeg"
+              },
+              {
+                "id": 6, "titulo": "Anjos da noite", "imagem":"https://cinepop.com.br/wp-content/uploads/2018/09/anjosdanoite1-750x380.jpg"
+              },
+              {
+                "id": 7, "titulo": "Anjos da noite 2", "imagem":"https://i1.wp.com/nosbastidores.com.br/wp-content/uploads/2016/11/Underworld-Blood-Wars-Poster.jpg?fit=798%2C420&ssl=1"
+              }
+  
+            ]
+  
+      },
+
+      {
+        "id":2,
+        "titulo": "Comédia",
+        "filmes": [
+          {
+            "id": 1, "titulo": "Piratas do caribe 6", "imagem":"https://cinepop.com.br/wp-content/uploads/2017/05/CinePOP-Piratas-do-Caribe-750x380.jpg"
+          },
+          {
+            "id": 2, "titulo": "Piratas do caribe 2", "imagem":"http://www.nivelepico.com/wp-content/uploads/2011/05/piratas-do-caribe-4.jpg"
+          },
+          {
+            "id": 3, "titulo": "Capitão américa", "imagem":"https://cabanadoleitor.com.br/wp-content/uploads/2018/10/painel-capitao-america-2-10-x-1-70m-personalizado.jpg"
+          },
+          {
+            "id": 4, "titulo": "Resident Evil 7", "imagem":"https://i.ytimg.com/vi/5iszUCmLyW4/maxresdefault.jpg"
+          },
+          {
+            "id": 5, "titulo": "Resident Evil 5", "imagem":"https://i.ytimg.com/vi/5iszUCmLyW4/maxresdefault.jpg"
+          },
+          {
+            "id": 6, "titulo": "Resident Evil 5", "imagem":"https://i.ytimg.com/vi/5iszUCmLyW4/maxresdefault.jpg"
+          },
+          {
+            "id": 7, "titulo": "Resident Evil 5", "imagem":"https://i.ytimg.com/vi/5iszUCmLyW4/maxresdefault.jpg"
+          }
+
+        ]
+
+  }
+    ]
+}
